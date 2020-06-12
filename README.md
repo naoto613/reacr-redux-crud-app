@@ -1,1 +1,1 @@
-# reacr-redux-crud-app
+#react,reduxの練習用リポジトリ
